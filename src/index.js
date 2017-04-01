@@ -35,7 +35,8 @@ const
     .then(code => {
       const url = `https://git.io/${code}`
       display({
-        title: url
+        icon
+      , title: url
       , subtitle: 'Enter to copy'
       , clipboard: url
       , onSelect: () => actions.copyToClipboard(url)
