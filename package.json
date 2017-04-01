@@ -1,6 +1,6 @@
 {
   "name": "cerebro-gitio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shorten GitHub URLs with git.io",
   "license": "MIT",
   "repository": "lubien/cerebro-gitio",
