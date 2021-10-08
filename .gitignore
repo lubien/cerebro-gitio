@@ -44,3 +44,7 @@ yarn.lock
 
 # Application local files
 dist
+
+# Ignore artifacts:
+build
+coverage
